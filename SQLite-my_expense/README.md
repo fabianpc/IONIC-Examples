@@ -1,1 +1,2 @@
-
+Storage in SQLite example
+-------------------------
